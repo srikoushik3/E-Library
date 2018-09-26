@@ -46,4 +46,3 @@ gulp.task('serve', ['style', 'inject'], function () {
             console.log('Restarting...');
         });
 });
-
